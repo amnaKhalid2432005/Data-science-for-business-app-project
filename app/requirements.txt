@@ -1,7 +1,7 @@
-
 streamlit
 pandas
-joblib
 numpy
+joblib
+scikit-learn
 pyarrow
-
+kagglehub
