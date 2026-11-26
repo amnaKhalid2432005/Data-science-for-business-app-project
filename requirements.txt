@@ -1,5 +1,0 @@
-
-pandas
-kagglehub
-scikit-learn
-pyarrow
