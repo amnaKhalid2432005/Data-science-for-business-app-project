@@ -8,7 +8,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Loan Default Risk Prediction",
-    page_icon="🏦",
+    page_icon=None,
     layout="wide"
 )
 
@@ -23,7 +23,7 @@ def load_config():
     with open(APP_DIR / "feature_config.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
-st.title("🏦 Loan Default Risk Prediction")
+st.title("Loan Default Risk Prediction")
 st.write(
     "This application estimates loan default risk using "
     "a machine learning model trained on historical Lending Club data."
