@@ -76,8 +76,7 @@ The project uses the following Python libraries:
 
 ## Streamlit Application
 
-Status: Not deployed yet. The application will be developed in Stage 7.
-
+Streamlit application link: https://data-science-for-business-app-project-bkcrw7kpk287bmjuvmccjd.streamlit.app/
 
 
 
