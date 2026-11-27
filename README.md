@@ -76,7 +76,11 @@ The project uses the following Python libraries:
 
 ## Streamlit Application
 
+Our Loan Default Risk Prediction application is deployed on Streamlit Community Cloud.
+
 Streamlit application link: https://data-science-for-business-app-project-bkcrw7kpk287bmjuvmccjd.streamlit.app/
+
+The application allows users to enter borrower and loan information and receive an estimated default probability and predicted risk class. It is intended for educational demonstration and decision support only.
 
 
 
